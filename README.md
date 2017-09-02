@@ -17,11 +17,13 @@ Creditos
 =======
 Joana: 
  Pelo guia incrivel do WoW Vanilla que pode ser acessado no link abaixo:
+ 
 	http://www.joanasworld.com/Joanas1-60Guide.pdf
 	
 mrmr:
  Por ter programado e mantido o VanillaGuide por tanto tempo e ter ajudado varias pessoas.
  Você pode acessar o AddOn original pelo link abaixo:
+ 
  	https://github.com/rsheep/VanillaGuide
 	
 Doações
