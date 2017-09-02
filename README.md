@@ -1,9 +1,12 @@
 # VanillaGuide PT-BR
 AddOn de World of Warcraft 1.12.1 modificado e traduzido para Português do Brasil.
+
 Versão da tradução: 0.5b
 
 Partes traduzidas: Zonas iniciais de todas as raças e guia do level 12 ao 20 para a Horda e Aliança.
+
 ============
+
 VanillaGuide foi criado para ajudar novos players a upar mais facilmente e para veteranos upar mais rapidamente. O AddOn possuí:
 
     Guia Passo-a-Passo por zonas (Criados por Joana(Horda) e Brian Kopps(Alliance))
