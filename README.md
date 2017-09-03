@@ -5,6 +5,11 @@ Versão da tradução: 0.5b
 
 Partes traduzidas: Zonas iniciais de todas as raças e guia do level 12 ao 20 para a Horda e Aliança.
 
+Instalação
+========
+
+Para saber como instalar, [clique aqui](https://github.com/Hlidskialf7/VanillaGuidePTBR/wiki/Instala%C3%A7%C3%A3o).
+
 Objetivo
 ========
 VanillaGuide foi criado para ajudar novos players a upar mais facilmente e para veteranos upar mais rapidamente. O AddOn possuí:
