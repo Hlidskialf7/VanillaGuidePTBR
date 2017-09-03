@@ -46,6 +46,9 @@ Qualquer bug, erro de português ou incoerência em alguma parte dos guias, envi
 h.lidskialf@hotmail.com 
 Para reportar o bug certinho, envie o email com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
 
+Ou abra um Issue aqui no github.
+
 =========
 
+Qualquer duvida entre em contato pelo meu Twitter: https://twitter.com/Hlidskialfk
 Obrigado.
