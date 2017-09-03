@@ -45,6 +45,7 @@ Caso queira doar para o criador do AddOn: mrmr
 Bugs
 =========
 Qualquer bug, erro de português ou incoerência em alguma parte dos guias, responda a este formulario: https://goo.gl/forms/ZOte43rTpgMuq0OO2
+
 Para reportar o bug certinho, responda com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
 
 Ou abra um Issue aqui no github.
