@@ -22,11 +22,13 @@ Creditos
 =======
 Joana: 
  Pelo guia incrivel do WoW Vanilla que pode ser acessado no link abaixo:
+ 
 	http://www.joanasworld.com/Joanas1-60Guide.pdf
 	
 mrmr:
  Por ter programado e mantido o VanillaGuide por tanto tempo e ter ajudado varias pessoas.
  Você pode acessar o AddOn original pelo link abaixo:
+ 
  	https://github.com/rsheep/VanillaGuide
 	
 Doações
@@ -42,9 +44,8 @@ Caso queira doar para o criador do AddOn: mrmr
 
 Bugs
 =========
-Qualquer bug, erro de português ou incoerência em alguma parte dos guias, envie um email para: 
-h.lidskialf@hotmail.com 
-Para reportar o bug certinho, envie o email com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
+Qualquer bug, erro de português ou incoerência em alguma parte dos guias, responda a este formulario: https://goo.gl/forms/ZOte43rTpgMuq0OO2
+Para reportar o bug certinho, responda com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
 
 Ou abra um Issue aqui no github.
 
