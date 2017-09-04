@@ -31,6 +31,14 @@ mrmr:
  
  	https://github.com/rsheep/VanillaGuide
 	
+Bugs
+=========
+Qualquer bug, erro de português ou incoerência em alguma parte dos guias, responda a este formulario: https://goo.gl/forms/ZOte43rTpgMuq0OO2
+
+Para reportar o bug certinho, responda com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
+
+Ou abra um Issue aqui no github.
+
 Doações
 =========
 
@@ -41,14 +49,6 @@ Se quiser doar qualquer quantia para ajudar na continuação da tradução ou pa
 Caso queira doar para o criador do AddOn: mrmr
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LSR84M2ZJEPJS)
-
-Bugs
-=========
-Qualquer bug, erro de português ou incoerência em alguma parte dos guias, responda a este formulario: https://goo.gl/forms/ZOte43rTpgMuq0OO2
-
-Para reportar o bug certinho, responda com o nome do guia (que você encontra na parte inferior do AddOn) e com o numero do passo do guia (que você encontra na parte superior direita do AddOn) e se possivel envie uma sugestão de correção.
-
-Ou abra um Issue aqui no github.
 
 =========
 
